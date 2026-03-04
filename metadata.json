@@ -1,0 +1,5 @@
+{
+  "name": "NBA Theme Team Generator",
+  "description": "Generate the best NBA fantasy teams based on specific criteria like height restrictions or college conferences.",
+  "requestFramePermissions": []
+}
